@@ -2,6 +2,8 @@
 
 Source code for [Brain / Out](https://brainout.org/), the game.
 
+For a game summary and architecture map (modes, modules, networking, content, browser feasibility), see [docs/TechnicalOverview.md](docs/TechnicalOverview.md).
+
 ## How To Build From Source
 
 OpenJDK 11 is required.
